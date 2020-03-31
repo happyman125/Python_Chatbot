@@ -7,9 +7,9 @@ numerous features like learn, memory, conditional switch, topic-based
 conversation handling, etc.
 
 
-![Demo](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo.gif)
-![Clothing assistance](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/clothing.gif)
-![Remainder](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/reminder.gif)
+![Demo](https://raw.githubusercontent.com/happyman125/Python_Chatbot/master/images/demo.gif)
+![Clothing assistance](https://raw.githubusercontent.com/happyman125/Python_Chatbot/master/images/clothing.gif)
+![Remainder](https://raw.githubusercontent.com/happyman125/Python_Chatbot/master/images/reminder.gif)
 
 ## Installation
 
@@ -20,8 +20,8 @@ pip install chatbotAI
 
 install from github:
 ```sh
-git clone https://github.com/ahmadfaizalbh/Chatbot.git
-cd Chatbot
+git clone https://github.com/happyman125/Python_Chatbot.git
+cd Python_Chatbot
 python setup.py install
 ```
 
